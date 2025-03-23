@@ -29,6 +29,14 @@ ul,
     display: flex;
 }
 
+.logo,
+.hero h1,
+.hero button,
+.sub-right h3,
+.sub-left button {
+    color: #F9FAF8;
+}
+
 .header,
 .container#top {
     background-color: #1F2937;
@@ -40,7 +48,6 @@ ul,
 }
 
 .logo {
-    color: #F9FAF8;
     font-size: 24px;
     font-weight: 900;
 }
@@ -73,7 +80,6 @@ a {
 }
 
 .hero h1 {
-    color: #F9FAF8;
     font-size: 48px;
 }
 
@@ -87,7 +93,6 @@ a {
     border: none;
     border-radius: 8px;
     width: 150px;
-    color: #F9FAF8;
     font-size: 18px;
     font-weight: 600;
     padding: 10px;
@@ -175,7 +180,6 @@ h2 {
 }
 
 .sub-right h3 {
-    color: #F9FAF8;
     font-size: 24px;
 }
 
@@ -188,7 +192,6 @@ h2 {
     border-radius: 8px;
     border-color: #F9FAF8;
     border-style: solid;
-    color: #F9FAF8;
     font-size: 18px;
     background-color: #3882F6;
     padding: 10px 20px;
